@@ -1,0 +1,1 @@
+Is there a way to use an alias for a subquery without using a WITH statement
